@@ -1,9 +1,11 @@
 <template>
+ <h1>Piyawat</h1>
   <img alt="Vue logo" src="./assets/logo.png">
   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   <Kittisak />
   <Sakon />
   <Pichayut />
+  
   
 </template>
 
