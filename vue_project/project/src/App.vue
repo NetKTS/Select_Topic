@@ -3,6 +3,7 @@
   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   <Kittisak />
   <Sakon />
+  <Pichayut />
   
 </template>
 
@@ -10,12 +11,15 @@
 // import HelloWorld from './components/HelloWorld.vue'
 import Kittisak from './components/6106021611142_Kittisak.vue'
 import Sakon from './components/6106021611169_Sakon.vue';
+import Pichayut from './components/6106021612165_Pichayut.vue';
+
 export default {
   name: 'App',
   components: {
     // HelloWorld,
     Kittisak,
-    Sakon
+    Sakon,
+    Pichayut
 
   }
 }
