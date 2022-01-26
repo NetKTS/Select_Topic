@@ -2,17 +2,20 @@
   <img alt="Vue logo" src="./assets/logo.png">
   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   <Kittisak />
+  <Sakon />
   
 </template>
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
 import Kittisak from './components/6106021611142_Kittisak.vue'
+import Sakon from './components/6106021611169_Sakon.vue';
 export default {
   name: 'App',
   components: {
     // HelloWorld,
-    Kittisak
+    Kittisak,
+    Sakon
 
   }
 }
