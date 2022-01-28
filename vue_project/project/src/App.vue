@@ -8,6 +8,7 @@
   <Tanatorn />
   <Napat />
   <Piyawat />
+  <Hatairut />
 </template>
 
 <script>
@@ -19,6 +20,7 @@ import Tanatorn from "./components/6106021621041_tanatorn";
 import Napat from "./components/6106021622039_Napat.vue";
 import Piyawat from "./components/6106021622080_Piyawat";
 
+import Hatairut from "./components/6106021610154_hatairut.vue" ;
 export default {
   name: "App",
   components: {
@@ -29,6 +31,7 @@ export default {
     Tanatorn,
     Napat,
     Piyawat,
+    Hatairut,
   },
 };
 </script>
