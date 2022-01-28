@@ -1,5 +1,5 @@
 <template>
-  <div id="Sakon">
+  <div id="Chitsanupong">
     <h1>
       I'm here 6106021610081 ชิษณุพงศ์ บุญเสริม
     </h1>
@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: "Sakon",
+  name: "Chitsanupong",
 };
 </script>
 
