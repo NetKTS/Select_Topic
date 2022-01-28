@@ -16,6 +16,11 @@
   <Tanatorn /> 
   <Phetlada />
   <Suchawadee />
+<<<<<<< HEAD
+=======
+  <Theerat />
+
+>>>>>>> 5eb50642caef227a00460b29dbc216a072ec1442
 </template>
 
 <script>
@@ -32,7 +37,11 @@ import Supakorn from "./components/6106021610111_Supakorn.vue";
 import Chanita from "./components/6106021610189_Chanita.vue";
 import Phetlada from "./components/6106021620117_Phetlada";
 import Suchawadee from "./components/6106021612084_Suchawadee.vue";
+<<<<<<< HEAD
 
+=======
+import Theerat from "./components/6106021611088_Theerat.vue";
+>>>>>>> 5eb50642caef227a00460b29dbc216a072ec1442
 import Hatairut from "./components/6106021610154_hatairut.vue" ;
 export default {
   name: "App",
@@ -51,6 +60,10 @@ export default {
     Chanita,
     Phetlada,
     Suchawadee,
+<<<<<<< HEAD
+=======
+    Theerat
+>>>>>>> 5eb50642caef227a00460b29dbc216a072ec1442
   },
 };
 </script>
