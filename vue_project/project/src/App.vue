@@ -1,30 +1,30 @@
 <template>
   <h1>hello</h1>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <img alt="Vue logo" src="./assets/logo.png" />
   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   <Kittisak />
   <Sakon />
   <Pichayut />
-  
-  
+  <Tanatorn />
 </template>
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
-import Kittisak from './components/6106021611142_Kittisak.vue'
-import Sakon from './components/6106021611169_Sakon.vue';
-import Pichayut from './components/6106021612165_Pichayut.vue';
+import Kittisak from "./components/6106021611142_Kittisak.vue";
+import Sakon from "./components/6106021611169_Sakon.vue";
+import Pichayut from "./components/6106021612165_Pichayut.vue";
+import Tanatorn from "./components/6106021621041_tanatorn";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     // HelloWorld,
     Kittisak,
     Sakon,
-    Pichayut
-
-  }
-}
+    Pichayut,
+    Tanatorn,
+  },
+};
 </script>
 
 <style>
