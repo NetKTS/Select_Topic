@@ -7,6 +7,7 @@
   <Pichayut />
   <Tanatorn />
   <Napat />
+  <Ratthapon />
   <Piyawat />
 </template>
 
@@ -17,6 +18,7 @@ import Sakon from "./components/6106021611169_Sakon.vue";
 import Pichayut from "./components/6106021612165_Pichayut.vue";
 import Tanatorn from "./components/6106021621041_tanatorn";
 import Napat from "./components/6106021622039_Napat.vue";
+import Ratthapon from './components/6106021611045_Ratthapon.vue'
 import Piyawat from "./components/6106021622080_Piyawat";
 
 export default {
@@ -28,6 +30,7 @@ export default {
     Pichayut,
     Tanatorn,
     Napat,
+    Ratthapon,
     Piyawat,
   },
 };
