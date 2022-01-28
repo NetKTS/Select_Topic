@@ -37,6 +37,7 @@ export default {
     Ratthapon,
     Piyawat,
     Supakorn,
+    Theerat
   },
 };
 </script>
