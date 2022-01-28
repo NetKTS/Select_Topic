@@ -9,6 +9,8 @@
   <Napat />
   <Ratthapon />
   <Piyawat />
+  <Hatairut />
+  <Chitsanupong />
   <Chanita />
   <Supakorn />
   <Suchawadee />
@@ -23,9 +25,12 @@ import Tanatorn from "./components/6106021621041_tanatorn";
 import Napat from "./components/6106021622039_Napat.vue";
 import Ratthapon from './components/6106021611045_Ratthapon.vue'
 import Piyawat from "./components/6106021622080_Piyawat";
+import Chitsanupong from "./components/6106021610081_Chitsanupong.vue";
+import Supakorn from "./components/6106021610111_Supakorn.vue";
 import Chanita from "./components/6106021610189_Chanita.vue";
 import Suchawadee from "./components/6106021612084_Suchawadee.vue";
 
+import Hatairut from "./components/6106021610154_hatairut.vue" ;
 export default {
   name: "App",
   components: {
@@ -37,6 +42,9 @@ export default {
     Napat,
     Ratthapon,
     Piyawat,
+    Hatairut,
+    Chitsanupong,
+    Supakorn,
     Chanita,
     Suchawadee,
   },
