@@ -1,8 +1,6 @@
 <template>
   <div id="Napat">
-    <h1>
-      I'm here 6106021622039 ณภัทร มูลประจักษ์
-    </h1>
+    <h1>I'm here 6106021622039 ณภัทร มูลประจักษ์</h1>
   </div>
 </template>
 

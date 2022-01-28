@@ -2,36 +2,48 @@
   <h1>hello</h1>
   <img alt="Vue logo" src="./assets/logo.png" />
   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-  <Kittisaks />
+  <Kittisak />
   <Sakon />
   <Pichayut />
   <Tanatorn />
   <Napat />
+  <Ratthapon />
   <Piyawat />
   <Hatairut />
+  <Chitsanupong />
+  <Chanita />
+  <Supakorn />
 </template>
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
-import Kittisaks from "./components/6106021611142_Kittisak.vue";
+import Kittisak from "./components/6106021611142_Kittisak.vue";
 import Sakon from "./components/6106021611169_Sakon.vue";
 import Pichayut from "./components/6106021612165_Pichayut.vue";
 import Tanatorn from "./components/6106021621041_tanatorn";
 import Napat from "./components/6106021622039_Napat.vue";
+import Ratthapon from './components/6106021611045_Ratthapon.vue'
 import Piyawat from "./components/6106021622080_Piyawat";
+import Chitsanupong from "./components/6106021610081_Chitsanupong.vue";
+import Supakorn from "./components/6106021610111_Supakorn.vue";
+import Chanita from "./components/6106021610189_Chanita.vue";
 
 import Hatairut from "./components/6106021610154_hatairut.vue" ;
 export default {
   name: "App",
   components: {
     // HelloWorld,
-    Kittisaks,
+    Kittisak,
     Sakon,
     Pichayut,
     Tanatorn,
     Napat,
+    Ratthapon,
     Piyawat,
     Hatairut,
+    Chitsanupong,
+    Supakorn,
+    Chanita,
   },
 };
 </script>
