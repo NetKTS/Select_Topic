@@ -18,10 +18,12 @@
   <Suchawadee />
   <Theerat />
 
+  <Tanapoom />
+  <Natnapin />
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue'
+//import HelloWorld from './components/HelloWorld.vue'
 import Kittisak from "./components/6106021611142_Kittisak.vue";
 import Sakon from "./components/6106021611169_Sakon.vue";
 import Pichayut from "./components/6106021612165_Pichayut.vue";
@@ -36,6 +38,9 @@ import Phetlada from "./components/6106021620117_Phetlada";
 import Suchawadee from "./components/6106021612084_Suchawadee.vue";
 import Theerat from "./components/6106021611088_Theerat.vue";
 import Hatairut from "./components/6106021610154_hatairut.vue" ;
+import Tanapoom from "./components/6106021620141_Tanapoom.vue"
+import Natnapin from "./components/6106021610073_Natnapin.vue"
+
 export default {
   name: "App",
   components: {
@@ -54,6 +59,8 @@ export default {
     Phetlada,
     Suchawadee,
     Theerat
+    Tanapoom,
+    Natnapin,
   },
 };
 </script>
