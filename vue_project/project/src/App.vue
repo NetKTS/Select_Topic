@@ -13,12 +13,9 @@
   <Chitsanupong />
   <Chanita />
   <Supakorn />
-<<<<<<< HEAD
   <Tanatorn /> 
   <Phetlada />
-=======
   <Suchawadee />
->>>>>>> a08c2ab1e139157e31aae25003a5bfedb21cd8c2
 </template>
 
 <script>
@@ -33,12 +30,8 @@ import Piyawat from "./components/6106021622080_Piyawat";
 import Chitsanupong from "./components/6106021610081_Chitsanupong.vue";
 import Supakorn from "./components/6106021610111_Supakorn.vue";
 import Chanita from "./components/6106021610189_Chanita.vue";
-<<<<<<< HEAD
 import Phetlada from "./components/6106021620117_Phetlada";
-=======
 import Suchawadee from "./components/6106021612084_Suchawadee.vue";
->>>>>>> a08c2ab1e139157e31aae25003a5bfedb21cd8c2
-
 import Hatairut from "./components/6106021610154_hatairut.vue" ;
 export default {
   name: "App",
@@ -55,11 +48,8 @@ export default {
     Chitsanupong,
     Supakorn,
     Chanita,
-<<<<<<< HEAD
     Phetlada,
-=======
     Suchawadee,
->>>>>>> a08c2ab1e139157e31aae25003a5bfedb21cd8c2
   },
 };
 </script>
