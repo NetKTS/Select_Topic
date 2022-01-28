@@ -2,20 +2,22 @@
   <h1>hello</h1>
   <img alt="Vue logo" src="./assets/logo.png" />
   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-  <Kittisaks />
+  <Kittisak />
   <Sakon />
   <Pichayut />
   <Tanatorn />
+  <Napat />
   <Piyawat />
   <Chanita />
 </template>
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
-import Kittisaks from "./components/6106021611142_Kittisak.vue";
+import Kittisak from "./components/6106021611142_Kittisak.vue";
 import Sakon from "./components/6106021611169_Sakon.vue";
 import Pichayut from "./components/6106021612165_Pichayut.vue";
 import Tanatorn from "./components/6106021621041_tanatorn";
+import Napat from "./components/6106021622039_Napat.vue";
 import Piyawat from "./components/6106021622080_Piyawat";
 import Chanita from "./components/6106021610189_Chanita.vue";
 
@@ -23,10 +25,11 @@ export default {
   name: "App",
   components: {
     // HelloWorld,
-    Kittisaks,
+    Kittisak,
     Sakon,
     Pichayut,
     Tanatorn,
+    Napat,
     Piyawat,
     Chanita,
   },
