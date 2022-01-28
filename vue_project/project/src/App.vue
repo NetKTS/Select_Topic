@@ -7,6 +7,7 @@
   <Pichayut />
   <Tanatorn />
   <Piyawat />
+  <Chanita />
 </template>
 
 <script>
@@ -16,6 +17,7 @@ import Sakon from "./components/6106021611169_Sakon.vue";
 import Pichayut from "./components/6106021612165_Pichayut.vue";
 import Tanatorn from "./components/6106021621041_tanatorn";
 import Piyawat from "./components/6106021622080_Piyawat";
+import Chanita from "./components/6106021610189_Chanita.vue";
 
 export default {
   name: "App",
@@ -26,6 +28,7 @@ export default {
     Pichayut,
     Tanatorn,
     Piyawat,
+    Chanita,
   },
 };
 </script>
