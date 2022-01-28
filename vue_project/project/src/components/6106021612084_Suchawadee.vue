@@ -6,9 +6,9 @@
     </div>
 </template>
 
-<<script>
+<script>
 export default {
-    name: "Suchawadee"
+    name: "Suchawadee",
 }
 </script>
 
