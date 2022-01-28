@@ -17,9 +17,9 @@
   <Phetlada />
   <Suchawadee />
   <Theerat />
-
   <Tanapoom />
   <Natnapin />
+
 </template>
 
 <script>
@@ -58,9 +58,10 @@ export default {
     Chanita,
     Phetlada,
     Suchawadee,
-    Theerat
+    Theerat,
     Tanapoom,
     Natnapin,
+
   },
 };
 </script>
