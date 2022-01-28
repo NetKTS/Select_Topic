@@ -13,6 +13,8 @@
   <Chitsanupong />
   <Chanita />
   <Supakorn />
+  <Tanatorn /> 
+  <Phetlada />
 </template>
 
 <script>
@@ -27,6 +29,7 @@ import Piyawat from "./components/6106021622080_Piyawat";
 import Chitsanupong from "./components/6106021610081_Chitsanupong.vue";
 import Supakorn from "./components/6106021610111_Supakorn.vue";
 import Chanita from "./components/6106021610189_Chanita.vue";
+import Phetlada from "./components/6106021620117_Phetlada";
 
 import Hatairut from "./components/6106021610154_hatairut.vue" ;
 export default {
@@ -44,6 +47,7 @@ export default {
     Chitsanupong,
     Supakorn,
     Chanita,
+    Phetlada,
   },
 };
 </script>
