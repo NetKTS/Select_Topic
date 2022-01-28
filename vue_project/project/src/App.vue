@@ -9,6 +9,7 @@
   <Napat />
   <Ratthapon />
   <Piyawat />
+  <Chitsanupong />
 </template>
 
 <script>
@@ -20,6 +21,7 @@ import Tanatorn from "./components/6106021621041_tanatorn";
 import Napat from "./components/6106021622039_Napat.vue";
 import Ratthapon from './components/6106021611045_Ratthapon.vue'
 import Piyawat from "./components/6106021622080_Piyawat";
+import Chitsanupong from "./components//6106021610081_Chitsanupong.vue";
 
 export default {
   name: "App",
@@ -32,6 +34,7 @@ export default {
     Napat,
     Ratthapon,
     Piyawat,
+    Chitsanupong,
   },
 };
 </script>
