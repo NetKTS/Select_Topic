@@ -20,6 +20,7 @@
   <Tanapoom />
   <Natnapin />
 
+  <Somruthai />
 </template>
 
 <script>
@@ -40,6 +41,7 @@ import Theerat from "./components/6106021611088_Theerat.vue";
 import Hatairut from "./components/6106021610154_hatairut.vue" ;
 import Tanapoom from "./components/6106021620141_Tanapoom.vue"
 import Natnapin from "./components/6106021610073_Natnapin.vue"
+import Somruthai from "./components/6106021610138_Somruthai.vue";
 
 export default {
   name: "App",
@@ -62,6 +64,7 @@ export default {
     Tanapoom,
     Natnapin,
 
+    Somruthai
   },
 };
 </script>
