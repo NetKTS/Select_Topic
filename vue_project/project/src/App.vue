@@ -9,11 +9,8 @@
   <Napat />
   <Ratthapon />
   <Piyawat />
-<<<<<<< HEAD
   <Chanita />
-=======
   <Supakorn />
->>>>>>> e18e74c61f36464fcd46b2eaebf9244b84029cba
 </template>
 
 <script>
@@ -25,11 +22,7 @@ import Tanatorn from "./components/6106021621041_tanatorn";
 import Napat from "./components/6106021622039_Napat.vue";
 import Ratthapon from './components/6106021611045_Ratthapon.vue'
 import Piyawat from "./components/6106021622080_Piyawat";
-<<<<<<< HEAD
 import Chanita from "./components/6106021610189_Chanita.vue";
-=======
-import Supakorn from "./components/6106021610111_Supakorn.vue";
->>>>>>> e18e74c61f36464fcd46b2eaebf9244b84029cba
 
 export default {
   name: "App",
@@ -42,11 +35,7 @@ export default {
     Napat,
     Ratthapon,
     Piyawat,
-<<<<<<< HEAD
     Chanita,
-=======
-    Supakorn,
->>>>>>> e18e74c61f36464fcd46b2eaebf9244b84029cba
   },
 };
 </script>
