@@ -11,6 +11,7 @@
   <Piyawat />
   <Chanita />
   <Supakorn />
+  <Suchawadee />
 </template>
 
 <script>
@@ -23,6 +24,7 @@ import Napat from "./components/6106021622039_Napat.vue";
 import Ratthapon from './components/6106021611045_Ratthapon.vue'
 import Piyawat from "./components/6106021622080_Piyawat";
 import Chanita from "./components/6106021610189_Chanita.vue";
+import Suchawadee from "./components/6106021612084_Suchawadee.vue";
 
 export default {
   name: "App",
@@ -36,6 +38,7 @@ export default {
     Ratthapon,
     Piyawat,
     Chanita,
+    Suchawadee,
   },
 };
 </script>
