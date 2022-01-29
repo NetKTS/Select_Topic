@@ -21,6 +21,7 @@
   <Natnapin />
 
   <Somruthai />
+  
 </template>
 
 <script>
