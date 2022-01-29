@@ -19,9 +19,9 @@
   <Theerat />
   <Tanapoom />
   <Natnapin />
-
+  <!-- test conflict -->
   <Somruthai />
-  
+    <!-- test conflict -->
 </template>
 
 <script>
@@ -64,8 +64,9 @@ export default {
     Theerat,
     Tanapoom,
     Natnapin,
-
+// test conflict
     Somruthai
+    // test conflict
   },
 };
 </script>
