@@ -1,7 +1,7 @@
 <template>
   <div id="Voraphol">
       <h1>
-          I'm here 6106021622152 วรพล  อินมีs
+          I'm here 6106021622152 วรพล อินมี
       </h1>
   </div>
 </template>
